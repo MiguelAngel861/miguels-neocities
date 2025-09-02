@@ -25,8 +25,7 @@ jobs:
       with:
         node-version: lts/*
     # If you have a different build process, replace this with your own build steps
-    - run: npm i
-    - run: npm run build
+    
     # When the dist_dir is ready, deploy it to neocities
     # Here we deploy the folder named `public`
     - name: Deploy to neocities
