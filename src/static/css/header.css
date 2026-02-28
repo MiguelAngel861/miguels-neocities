@@ -1,0 +1,8 @@
+.header {
+    border-style: solid;
+    border-width: 2px;
+    height: 400px;
+    background-image: url('https://i.pinimg.com/originals/fd/87/86/fd878677523714b6760863cdc57ea0e1.gif');
+    background-size: none;
+    background-position: center;
+}
