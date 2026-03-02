@@ -1,9 +1,9 @@
 .nav {
-    margin: 10px 0;
     background-color: white;
     border-style: solid;
     border-width: 2px;
     padding: 10px;
+    grid-area: nav;
 }
 
 .nav ul {
